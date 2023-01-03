@@ -58,7 +58,9 @@ dec--;
 
 console.log(dec);
 
+let coba = (1-2, 2+1, 5+2);
 
+console.log(coba);
 
 
 
