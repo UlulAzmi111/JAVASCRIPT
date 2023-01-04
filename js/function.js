@@ -29,4 +29,3 @@ function lewat(a) {
 
 console.log(lewat(6));
 
-
