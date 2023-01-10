@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../html-css-bagian-20(toko online)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript"
+	}
+}
