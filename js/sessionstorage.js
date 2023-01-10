@@ -13,4 +13,3 @@ sessionStorage.setItem("panjang", 500);
 console.log(sessionStorage.length);
 
 console.log(sessionStorage.key(1));
-
