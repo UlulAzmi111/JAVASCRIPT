@@ -153,6 +153,8 @@
        width: 960px;
        margin: auto;
        display: flex;
+       flex-wrap: wrap;
+       justify-content: center;
     }
  
     .produk-content {
@@ -181,6 +183,12 @@
        width: 180px;
        margin-left: 5.5%;
     }
+ }
+
+ .btn-beli > button{
+   font-size: large;
+   width: 50px;
+   height: 30px;
  }
  
  /* informasi */
